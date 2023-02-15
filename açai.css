@@ -1,0 +1,103 @@
+body{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    width:1000px;
+    background: white;
+}
+img {
+    width: 270px;
+    position: absolute;
+    top: 0;
+    left: 4px;
+    right: 0;
+    bottom: 12cm;
+    margin: auto;
+    text-align: center;
+}
+.time {
+    display: flex;
+    position: absolute;
+    width: 250px;
+    height: 30px;
+    background: transparent;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 6px;
+    color:black;
+    top: o;
+    left: 15cm;
+    right: 100cm ;
+    bottom: 0;
+    margin: 100px auto;
+    text-align: center;
+}
+.button{
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 5px;
+    right: 0;
+    bottom:3.75cm;
+    margin: auto;
+    text-align: center;
+    width:200px;
+    height: 23px;
+    font-size:20px;
+    background: rgb(205, 11, 253);
+    color: white;
+    cursor:pointer;
+    border-radius: 10px;
+    padding: 8px;
+    box-shadow:  10px 5px 5px rgb(61, 250, 4) ;
+}
+.button:hover {
+    background: linear-gradient( rgb(255, 14, 14), rgb(255, 252, 252), rgb(252, 6, 170));
+    color: rgb(189, 4, 245);
+}
+.button2{
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 5px;
+    right: 0;
+    bottom:1cm;
+    margin: auto;
+    text-align: center;
+    width:200px;
+    height: 23px;
+    font-size:20px;
+    background: rgb(205, 11, 253);
+    color: white;
+    cursor:pointer;
+    border-radius: 10px;
+    padding: 8px;
+    box-shadow: 10px 5px 5px rgb(52, 245, 3);
+}
+.button2:hover {
+    background: linear-gradient( rgb(255, 14, 14), rgb(255, 252, 252), rgb(252, 6, 170));
+    color: rgb(189, 4, 245);
+}
+.button3 {
+    font-weight: bold;
+    position: absolute;
+    top: 2cm;
+    left: 5px;
+    right: 0;
+    bottom:0.25cm;
+    margin: auto;
+    text-align: center;
+    width:200px;
+    height: 23px;
+    font-size:20px;
+    background: rgb(205, 11, 253);
+    color: white;
+    cursor:pointer;
+    border-radius: 10px;
+    padding: 8px;
+    box-shadow: 10px 5px 5px rgb(53, 235, 8);
+}
+.button3:hover {
+    background: linear-gradient( rgb(255, 14, 14), rgb(255, 252, 252), rgb(252, 6, 170));
+    color: rgb(189, 4, 245);
+}

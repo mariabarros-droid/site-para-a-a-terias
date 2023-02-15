@@ -1,0 +1,160 @@
+body {
+    background: white;
+}
+img {
+    border-radius: 45px;
+    opacity:80%;
+}
+.cardapio {
+    left: 590px;
+    top: 120px;
+    bottom: 20px;
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    padding: 8px;
+    background: transparent;
+    font-size: 25px;
+    font-family:Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(248, 8, 188);
+    background:aliceblue;
+    opacity: 80%;
+    border-radius: 10px;
+    box-shadow: 8px 5px 5px  rgb(214, 196, 196);
+}
+.digite{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 10px;
+    background:cornflowerblue;
+    opacity: 90%;
+}
+.sejabemvindo{
+color: black;
+font-weight: bold;
+font-size: 30px;
+background:burlywood;
+text-align: center;
+padding: 10px;
+height: 50px;
+opacity:85%;
+border-radius: 5px;
+}
+.copos {
+    position:absolute;
+    top: 0;
+    left: 8px;
+    right: 0;
+    bottom: 0;
+    margin: 280px auto;
+    width: 550px;
+    height: 35px;
+    color: black;
+    background:rgb(248, 8, 188);
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.copos:hover {
+    opacity:85%;
+    box-shadow: 8px 5px 5px aqua;
+    color: white ;
+}
+.milkshake{
+    position:absolute;
+    top: 0;
+    left: 8px;
+    right: 0;
+    bottom: 0;
+    margin: 330px auto;
+    width: 550px;
+    height: 35px;
+    color: black;
+    background:rgb(248, 8, 188);
+    border-radius:10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+}
+.milkshake:hover {
+    opacity:85%;
+    box-shadow: 8px 5px 5px aqua;
+    color: white ;
+}
+.salada{
+    position:absolute;
+    top: 0;
+    left: 8px;
+    right: 0;
+    bottom: 0;
+    margin: 380px auto;
+    width: 550px;
+    height: 35px;
+    color: black;
+    background:rgb(248, 8, 188);
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.salada:hover {
+    opacity:85%;
+    box-shadow: 8px 5px 5px aqua;
+    color: white ;
+}
+.sorvetes{
+    position:absolute;
+    top: 0;
+    left: 8px;
+    right: 0;
+    bottom: 0;
+    margin: 430px auto;
+    width: 550px;
+    height: 35px;
+    color: black;
+    background:rgb(248, 8, 188);
+    border-radius: 10px;
+    padding: 5px ;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.sorvetes:hover {
+    opacity:85%;
+    box-shadow: 8px 5px 5px aqua;
+    color: white ;
+}
+.vitamina{
+    position:absolute;
+    top: 0;
+    left: 8px;
+    right: 0;
+    bottom: 0;
+    margin: 480px auto;
+    width: 550px;
+    height: 35px;
+    color: black;
+    background:rgb(248, 8, 188);
+    border-radius: 10px;
+    padding: 5px ;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.vitamina:hover {
+    box-shadow: 8px 5px 5px aqua;
+    color: white ;
+}
